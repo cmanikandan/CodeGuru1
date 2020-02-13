@@ -1,6 +1,7 @@
 // This is an example of Java code with some bad practices, dont try this at home or in prod ;-)
 
 // lots of wildcard imports
+//
 import java.*;
 import java.util.*;
 import java.sql.*;
