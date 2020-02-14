@@ -41,11 +41,15 @@ public class badcode {
   			e.printStackTrace();
   		}
 
+    //**
+    // commenting this out deliberately ..
+    // 
   		finally {
   			if (rs != null) try { rs.close(); } catch(Exception e) {}
   	    		if (stmt != null) try { stmt.close(); } catch(Exception e) {}
   	    		if (con != null) try { con.close(); } catch(Exception e) {}
   		}
   	}
+    **/
 
 }
