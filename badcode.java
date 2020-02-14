@@ -39,6 +39,7 @@ public class badcode {
           	}
 
   		// Handle any errors that may have occurred.
+      // generic exception handler
   		catch (Exception e) {
   			e.printStackTrace();
   		}
