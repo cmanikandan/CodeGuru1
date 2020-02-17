@@ -7,7 +7,7 @@ import java.util.*;
 import java.sql.*;
 import java.io.*
   
-  
+// a public class badcode  
 public class badcode {
 
   public static void main(String[] args) {
