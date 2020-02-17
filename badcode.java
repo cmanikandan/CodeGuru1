@@ -21,6 +21,7 @@ public class badcode {
   		Statement stmt = null;
   		ResultSet rs = null;
       String notusedvar;
+      String testStringConcat = "1" + "2";
 
           	try {
           		// Establish the connection.
